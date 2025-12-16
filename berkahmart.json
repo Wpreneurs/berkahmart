@@ -1,0 +1,22 @@
+{
+  "name": "Berkah Mart",
+  "short_name": "BerkahMart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#061623",
+  "description": "Toko online Berkah Mart - Belanja mudah, cepat, dan hemat di Blogger!",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjixeUUypAA20jS7H3slIYfVSewUwz1fQj-tuF1xAkjLpVxEN5siv8bUjKtAN5piwrzp7YBW9ipFRZI-1_e2E3vt46cdgEna2C4AtrW2dXxGyJKOYNTBEuUpJ3ESxgMiTSNJz3OzuLzpcr_sYTcWTwbviGmqTCXrlxcR8-mlmK9jDeqHWreU136m57cxGoY/s1600/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8k_pPGR8SLcvTEWba2jN-E5k2NCYSNMrHLwMbRxe2rupBDSEUEOgKYb4HdlTUnhbAnEDI6jRa_RTV6F1-n8jTHH7dF8v-zkqZ9BzggXVBkZ2yhggIGmrOblG5uZa3wreds-pGwLwZ5UhLAq5mbBw3zqsCW6aHQszkqiuwydFZ9HOiqvy2kEDJudXwZXVq/s1600/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
