@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Offline | Tiktoko</title>
+<title>Offline | Berkah Mart</title>
 <style>
 body {font-family: 'Poppins', sans-serif; text-align: center; padding: 50px;}
 a {background: #06084a; color: #fff; padding: 10px 20px; border-radius: 8px; text-decoration: none;}
@@ -15,3 +15,4 @@ a {background: #06084a; color: #fff; padding: 10px 20px; border-radius: 8px; tex
   <a href="/">Kembali ke Tiktoko</a>
 </body>
 </html>
+
